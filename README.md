@@ -12,6 +12,7 @@ The project involves a multi-layered data warehousing architecture, with an emph
 
    - **Source Data:** The dataset includes NYC motor vehicle collision data, with tables for crashes, vehicles, and persons involved.
    - **Data Ingestion:** Data is initially ingested and loaded into staging tables using Talend, with SQL Server/Azure SQL as the primary RDBMS.
+     ![image](https://github.com/RutujaMore1706/NYC-Motor-Vehicle-Collision-Analysis/blob/main/Data%20Modeling/Talend/Talend-Job.png)
    
 ### 2. **Staging Area**
 
