@@ -48,8 +48,13 @@ The project involves a multi-layered data warehousing architecture, with an emph
      - Analysis of incidents involving specific vehicle types and road users (e.g., pedestrians, cyclists).
 
 ## Key Insights and Metrics
+![image](https://github.com/RutujaMore1706/NYC-Motor-Vehicle-Collision-Analysis/blob/main/Data%20Visualization/Screenshot%202024-10-31%20101002.png)
 
-- **Collision Counts:** Track monthly and yearly trends in collision frequency.
-- **Fatalities and Injuries:** Breakdown of collision outcomes by role and vehicle type.
-- **Time Analysis:** Insights on peak collision times, including morning/evening rush hours.
-- **Geographic Trends:** Identification of high-risk locations based on collision frequency.
+![image](https://github.com/RutujaMore1706/NYC-Motor-Vehicle-Collision-Analysis/blob/main/Data%20Visualization/Screenshot%202024-10-31%20101058.png)
+
+![image](https://github.com/RutujaMore1706/NYC-Motor-Vehicle-Collision-Analysis/blob/main/Data%20Visualization/Screenshot%202024-11-07%20at%206.41.56%E2%80%AFPM.png)
+
+![image](https://github.com/RutujaMore1706/NYC-Motor-Vehicle-Collision-Analysis/blob/main/Data%20Visualization/Screenshot%202024-11-07%20at%206.42.09%E2%80%AFPM.png)
+
+  
+
